@@ -1,1 +1,1 @@
-# ghost-tower
+# ghost-tower-template
